@@ -1,4 +1,7 @@
-<a href="https://minihm.com"><img src="assets/banner.png" alt="Min Ihm — I see problems through data, and data builds the products. minihm.com" width="100%"></a>
+<a href="https://minihm.com"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+<img src="assets/banner-light.png" alt="Min Ihm — Define problems with customers, build products with data. minihm.com" width="100%">
+</picture></a>
 
 Ten years across data science and product: enterprise data at Autodesk, six years at 6sense with enterprise accounts, now data scientist and head of data product and strategy at Pristine Data AI. I build the products below outside that work, and each one carries a pre-registered study of a question that mattered to its design.
 
@@ -12,7 +15,7 @@ Ten years across data science and product: enterprise data at Autodesk, six year
 <td>
 
 **VerifiedNews.** A news pipeline that assigns each extracted claim a verification tier, keeping the strength of the evidence separate from how well the claim was reported.
-Its study re-checked 600 week-one verdicts against later cited evidence: 23.9% of Contested verdicts held up, so about 3 in 4 doubted claims were true, and the product's rules changed because of it. [Read the study](https://minihm.com/studies/verifiednews-reverification/)
+Its study re-checked 600 week 1 verdicts against later cited evidence: 23.9% of Contested verdicts held up, so about 3 in 4 doubted claims were true, and the product's rules changed because of it. [Read the study](https://minihm.com/studies/verifiednews-reverification/)
 
 </td>
 </tr>
